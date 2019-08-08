@@ -1,0 +1,2 @@
+Calculations can take several minutes and the GUI will not respond during this time. 
+Additional output is made outside the GUI (in command line). 
