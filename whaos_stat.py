@@ -2046,7 +2046,7 @@ class Graph:
         return summeans,sumstds,sumtotmean,sumtotstd
     
     
-#programe
+#program
 win=Tk()
 ops=Mode()
 gui=Gui1(win,ops)
